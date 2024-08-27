@@ -1,4 +1,4 @@
-# ParkingGarageApplication
+# ParkingGarageApplication (May 2022 - Jun 2022)
 This application manages a parking space for a configurable maximum number of vehicles. Each parking space (slot) is defined with a dimension (width and depth) The designed application must handle the following functions:
 1) Each vehicle shall be identified by a model name, unique identification number, Model year, and vehicle dimensions (vehicle width and depth). 
 2) Park-in function that marks the arrival time of a vehicle if there is an available slot. The application shall capture such time automatically from the system.
